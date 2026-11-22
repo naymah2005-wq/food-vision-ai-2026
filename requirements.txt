@@ -1,6 +1,6 @@
-
 streamlit
 tensorflow-cpu==2.21.0
 numpy==1.26.4
 Pillow
 gTTS==2.5.4
+click==8.1.8
